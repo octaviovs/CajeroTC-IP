@@ -1,0 +1,12 @@
+1111111111111111|1234|Octavio Gomez|810|si|octavio_vs@hotmail.com
+2222222222222222|1234|Mitzi Gallegos|6900|si|octavio_larregui@hotmail.com
+3333333333333333|1234|Luis Francisco|1220|no|octavio.exe@hotmail.com
+4444444444444444|1234|Jonathan Nava|1220|si|octavio.exe@hotmail.com
+5555555555555555|1234|Monze Romo|1180|si|octavio.exe@hotmail.com
+6666666666666666|1234|Salma Rolsaes|1220|si|octavio.exe@hotmail.com
+7777777777777777|1234|Felipe Oamana|980|si|octavio.exe@hotmail.com
+8888888888888888|8888|Sayra Avila|1220|si|octavio.exe@hotmail.com
+9999999999999999|9999|Adriana|220|si|octavio.exe@hotmail.com
+
+
+

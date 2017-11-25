@@ -1,0 +1,36 @@
+c:\users\octav\documents\visual studio 2015\Projects\Cajero-tcp\Cajero-tcp\bin\Debug\Cajero-tcp.exe.config
+c:\users\octav\documents\visual studio 2015\Projects\Cajero-tcp\Cajero-tcp\bin\Debug\Cajero-tcp.exe
+c:\users\octav\documents\visual studio 2015\Projects\Cajero-tcp\Cajero-tcp\bin\Debug\Cajero-tcp.pdb
+c:\users\octav\documents\visual studio 2015\Projects\Cajero-tcp\Cajero-tcp\obj\Debug\Cajero-tcp.csprojResolveAssemblyReference.cache
+c:\users\octav\documents\visual studio 2015\Projects\Cajero-tcp\Cajero-tcp\obj\Debug\Cajero-tcp.exe
+c:\users\octav\documents\visual studio 2015\Projects\Cajero-tcp\Cajero-tcp\obj\Debug\Cajero-tcp.pdb
+C:\Users\Tavo\Desktop\Cajero-tcp\Cajero-tcp\bin\Debug\Cajero-tcp.exe.config
+C:\Users\Tavo\Desktop\Cajero-tcp\Cajero-tcp\obj\Debug\Cajero-tcp.exe
+C:\Users\Tavo\Desktop\Cajero-tcp\Cajero-tcp\obj\Debug\Cajero-tcp.pdb
+C:\Users\Tavo\Desktop\Cajero-tcp\Cajero-tcp\bin\Debug\Cajero-tcp.exe
+C:\Users\Tavo\Desktop\Cajero-tcp\Cajero-tcp\bin\Debug\Cajero-tcp.pdb
+C:\Users\Tavo\Desktop\Cajero-tcp\Cajero-tcp\obj\Debug\Cajero-tcp.csprojResolveAssemblyReference.cache
+C:\Users\octav\Desktop\Cajero-tcp\Cajero-tcp\bin\Debug\Cajero-tcp.exe.config
+C:\Users\octav\Desktop\Cajero-tcp\Cajero-tcp\obj\Debug\Cajero-tcp.exe
+C:\Users\octav\Desktop\Cajero-tcp\Cajero-tcp\obj\Debug\Cajero-tcp.pdb
+C:\Users\octav\Desktop\Cajero-tcp\Cajero-tcp\bin\Debug\Cajero-tcp.exe
+C:\Users\octav\Desktop\Cajero-tcp\Cajero-tcp\bin\Debug\Cajero-tcp.pdb
+C:\Users\octav\Desktop\Cajero-tcp\Cajero-tcp\obj\Debug\Cajero-tcp.csprojResolveAssemblyReference.cache
+C:\Users\octav\Desktop\cajero-terminado\Cajero-tcp\Cajero-tcp\bin\Debug\Cajero-tcp.exe.config
+C:\Users\octav\Desktop\cajero-terminado\Cajero-tcp\Cajero-tcp\obj\Debug\Cajero-tcp.exe
+C:\Users\octav\Desktop\cajero-terminado\Cajero-tcp\Cajero-tcp\obj\Debug\Cajero-tcp.pdb
+C:\Users\octav\Desktop\cajero-terminado\Cajero-tcp\Cajero-tcp\bin\Debug\Cajero-tcp.exe
+C:\Users\octav\Desktop\cajero-terminado\Cajero-tcp\Cajero-tcp\bin\Debug\Cajero-tcp.pdb
+C:\Users\octav\Desktop\cajero-terminado\Cajero-tcp\Cajero-tcp\obj\Debug\Cajero-tcp.csprojResolveAssemblyReference.cache
+C:\Users\Tavo\Desktop\cajero-terminado\Cajero-tcp\Cajero-tcp\bin\Debug\Cajero-tcp.exe.config
+C:\Users\Tavo\Desktop\cajero-terminado\Cajero-tcp\Cajero-tcp\obj\Debug\Cajero-tcp.exe
+C:\Users\Tavo\Desktop\cajero-terminado\Cajero-tcp\Cajero-tcp\obj\Debug\Cajero-tcp.pdb
+C:\Users\Tavo\Desktop\cajero-terminado\Cajero-tcp\Cajero-tcp\bin\Debug\Cajero-tcp.exe
+C:\Users\Tavo\Desktop\cajero-terminado\Cajero-tcp\Cajero-tcp\bin\Debug\Cajero-tcp.pdb
+C:\Users\Tavo\Desktop\cajero-terminado\Cajero-tcp\Cajero-tcp\obj\Debug\Cajero-tcp.csprojResolveAssemblyReference.cache
+D:\cajero-terminado\Cajero-tcp\Cajero-tcp\bin\Debug\Cajero-tcp.exe.config
+D:\cajero-terminado\Cajero-tcp\Cajero-tcp\obj\Debug\Cajero-tcp.exe
+D:\cajero-terminado\Cajero-tcp\Cajero-tcp\obj\Debug\Cajero-tcp.pdb
+D:\cajero-terminado\Cajero-tcp\Cajero-tcp\bin\Debug\Cajero-tcp.exe
+D:\cajero-terminado\Cajero-tcp\Cajero-tcp\bin\Debug\Cajero-tcp.pdb
+D:\cajero-terminado\Cajero-tcp\Cajero-tcp\obj\Debug\Cajero-tcp.csprojResolveAssemblyReference.cache
